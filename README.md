@@ -11,3 +11,8 @@ graph LR
     IO <--> SystemBus
     CPU <--> SystemBus
 ```
+
+---
+**Tanggal: 02 Juni 2026
+Topik: Evolusi Komputer & Struktur Dasar
+Insight: Mempelajari bagaimana keterbatasan fisik (seperti ukuran besar ENIAC) mendorong inovasi menuju ukuran mikro seperti pada teknologi VLSI.**
